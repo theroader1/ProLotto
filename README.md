@@ -1,8 +1,6 @@
-# 🎈 Blank app template
+# 🎈 PROLotto by PMPro (aka The RoAdER)
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Statistics from the Italian Lotto and predictions based on a mix of statistical and AI-based models (the program automatically updates to the latest draw and calculates on a history based on all draws starting from 1939)
 
 ### How to run it on your own machine
 
